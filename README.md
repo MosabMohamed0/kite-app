@@ -75,16 +75,7 @@ I am a **Flutter Developer** with hands-on experience in building real-world mob
 * Dart
 * Android Studio or VS Code
 * Emulator or physical device
-
-### Installation
-
-```bash
-git clone https://github.com/your-username/kite.git
-cd kite
-flutter pub get
-flutter run
-```
-
+* 
 ---
 
 ## 📂 Project Structure
