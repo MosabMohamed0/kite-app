@@ -124,17 +124,10 @@ Contributions are welcome. Feel free to fork the repository and submit a pull re
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 📬 Contact
 
 If you’d like to collaborate or have any questions:
 
-* GitHub: *your profile link*
-* LinkedIn: *your profile link*
+* LinkedIn: https://www.linkedin.com/in/mosab-mohamed-551b0724b/
 
 ---
