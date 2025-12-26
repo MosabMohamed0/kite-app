@@ -60,10 +60,10 @@ I am a **Flutter Developer** with hands-on experience in building real-world mob
 
 * **Framework:** Flutter
 * **Language:** Dart
-* **State Management:** (Provider / Bloc / GetX – update if needed)
-* **Architecture:** Clean Architecture / MVVM (update if needed)
-* **Backend:** (API / Firebase / Local – update if needed)
-* **Platforms:** Android (iOS-ready)
+* **State Management:** (Bloc)
+* **Architecture:** Clean Architecture
+* **Backend:** (Firebase / Local)
+* **Platforms:** Android and iOS
 
 ---
 
